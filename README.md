@@ -15,6 +15,15 @@ Windows,Linux,Android,Osx,Universal   (Platform-Target)
 
 Optional Xmr-miner (see Donate section)
 
+## Phantom evasion 1.0 will be released soon
+
+New features:
+1) Pure c windows/meterpreter/reverse_tcp stager
+2) Pure c windows/meterpreter/reverse_http stager
+3) Windows Persistence modules 
+4) Better polymorphism for all modules
+
+
 ## New Indirect Call modules
 
 4 new windows modules that load critical functions (VirtualAlloc,Heapcreate,Heapalloc) dynamically using LoadLibrary/GetProcAddress or GetProcAddress/GetModuleHandle
